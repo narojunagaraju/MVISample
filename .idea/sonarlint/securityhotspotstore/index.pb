@@ -1,0 +1,25 @@
+
+g
+7app/src/main/java/com/example/mvisample/MainActivity.kt,3/f/3f4b2fc423d7e39a1df24fac54da77fc531354e6
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+I
+gradle/libs.versions.toml,d/7/d7595319a0658be6f1ed500ad590d42e4b28bc4f
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+g
+7app/src/main/java/com/example/mvisample/model/Animal.kt,d/8/d8a97937125b476eafcffa09214e599744aa7ffb
+h
+8app/src/main/java/com/example/mvisample/api/AnimalApi.kt,0/7/072cb0523a1c11ec3f9535d650297890eb0758e1
+i
+9app/src/main/java/com/example/mvisample/api/AnimalRepo.kt,a/7/a7bbe09be9818fc0b0ec1801a123b691ae3866bb
+l
+<app/src/main/java/com/example/mvisample/api/AnimalService.kt,4/5/45069d9da2ca417a1add28058ffd0f48ed2e08fd
+j
+:app/src/main/java/com/example/mvisample/view/MainIntent.kt,5/1/51f2ffcdd58de44cc894724b7c150aaa1ee23f2b
+i
+9app/src/main/java/com/example/mvisample/view/MainState.kt,8/3/83fd2efbacde824a0374cfbdd055d7442b72e0b8
+m
+=app/src/main/java/com/example/mvisample/view/MainViewModel.kt,2/f/2fd5ff078f29e5638e181fce18d15b95cd39c5e6
+p
+@app/src/main/java/com/example/mvisample/view/ViewModelFactory.kt,d/c/dc887c47a6b0c78abb3d91e164458d226ce91113
